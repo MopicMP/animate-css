@@ -1,0 +1,25 @@
+{
+  "name": "animate-css",
+  "version": "1.0.0",
+  "description": "Collection of CSS animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "animate",
+    "css",
+    "js",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/animate-css.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
